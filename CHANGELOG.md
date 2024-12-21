@@ -28,6 +28,10 @@
 
 **Full Changelog**: https://github.com/AnnaZhiv/study_2024_math_infoseq/compare/l-06...l-07
 
+# lab08 (21.12.2024)
+
+**Full Changelog**: https://github.com/AnnaZhiv/study_2024_math_infoseq/compare/l-07...l-08
+
 
 
 
